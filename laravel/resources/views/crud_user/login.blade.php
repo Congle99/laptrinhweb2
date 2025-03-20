@@ -9,6 +9,7 @@
         .card_h{
             display: flex;
             justify-content: center;
+            margin-bottom: 50px
         }
         a {
             color: #000000; 
